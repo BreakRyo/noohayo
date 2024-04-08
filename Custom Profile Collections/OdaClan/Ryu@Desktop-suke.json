@@ -1,0 +1,33 @@
+{
+    "MyComputer": [
+        "色1Ryu色2@色1Desktop-suke止",
+        "色1----------------------止",
+        "色2OS: 色1Windows 10 10.0.19045 SP0止",
+        "色2Host: 色1DESKTOP C8VCRNP止",
+        "色2Kernel: 色110.0.19045止",
+        "色2Uptime:色1 19816.0 days, 7.0 hours, 8.0 minutes止",
+        "色2Resolution: 色11920 x 1080                       止",
+        "色2Packages: 色17 (scoop)止",
+        "色2CPU: 色1AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD止",
+        "色2GPU: 色1AMD Radeon(TM) Graphics  止",
+        "色2Memory: 色115591.43 MiB止"
+    ],
+    "customLeftMargin":40,
+    "colors": [
+        "#aab7b8",
+        "#7b7d7d"
+    ],
+    "logoFile": "Default.txt",
+    "logoExist": true,
+    "logoColors": [
+        "#212425",
+        "#5b6366"
+    ],
+    "palette": [
+        "#212425",
+        "#3f4447",
+        "#5b6366",
+        "#323739",
+        "#0b0c0c"
+    ]
+}
