@@ -8,11 +8,11 @@ command line interface (cli) tool made with python, it displays a banner when ev
 
 ## Usage -
 
-### 1. Installation :
+### 1 Installation 
 You can install it via pip :
 
   ``` pip install noohayo ```
-### 2. Create a profile  :
+### 2 Create a profile  
 - when you first install the tool you will find no profile, to create one :
 
   ``` noohayo -n ProfileName ```
@@ -29,7 +29,7 @@ You can install it via pip :
   
   ``` noohayo -h ```    
 
-## Customization -
+## Customization 
 
 - All what's being displayed in the banned is customizable, to start Customizing :
     ``` 
