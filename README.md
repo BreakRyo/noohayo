@@ -1,4 +1,4 @@
-# NOOHAYO (coming soon)
+# NOOHAYO 
 
 command line interface (cli) tool made with python, it displays a banner when ever you open a new ternimal tab.
 
