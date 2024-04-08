@@ -11,23 +11,23 @@ command line interface (cli) tool made with python, it displays a banner when ev
 ### 1. Installation :
 You can install it via scoop :
 
-``` scoop install noohayo ```
+  ``` scoop install noohayo ```
 ### 2. Create a profile  :
 - when you first install the tool you will find no profile, to create one :
 
-``` noohayo -n ProfileName ```
+  ``` noohayo -n ProfileName ```
 - if the profile is created successfully run this command to see all the profiles you have :
 
-``` noohayo -s ```
+  ``` noohayo -s ```
 - to select a profile as the default one run this command :
 
-``` noohayo -s ProfileName ```
+  ``` noohayo -s ProfileName ```
 - if you want to locate the profiles folder for [Customization](#customization) run this command :
   
-``` noohayo -l ```
+  ``` noohayo -l ```
 - for more information about the command run this command :
   
-``` noohayo -h ```    
+  ``` noohayo -h ```    
 
 ## Customization -
 
