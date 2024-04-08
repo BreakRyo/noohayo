@@ -9,9 +9,9 @@ command line interface (cli) tool made with python, it displays a banner when ev
 ## Usage -
 
 ### 1. Installation :
-You can install it via scoop :
+You can install it via pip :
 
-  ``` scoop install noohayo ```
+  ``` pip install noohayo ```
 ### 2. Create a profile  :
 - when you first install the tool you will find no profile, to create one :
 
