@@ -113,6 +113,7 @@ You can install it via pip :
     - noohayo will read the json file and gets the colors and reads the the txt that contains the logo, and replaces `色` with the colors while printing the banner.
 ## How to make the banner show when ever you open a new tab ?
 - run this command `Notepad $PROFILE`, it will open notepad file .
+- if it didn't find the file run this first `New-Item -Path $PROFILE -Type File -Force` after that `Notepad $PROFILE`.
 - if you found something inside the file add this `; noohayo` otherwise `noohayo`.
 
         
